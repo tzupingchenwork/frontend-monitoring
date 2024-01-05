@@ -1,0 +1,6 @@
+[defaults]
+url = http://192.168.12.245:9000
+project=frontend-monitoring-zs
+org=anasystem
+[auth]
+token=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
